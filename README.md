@@ -20,9 +20,9 @@ A React Studio plugin for an SVG based QR Code
 	1. Please notice the format of the styling. This format is derived from the CSS-in-JS style that React follows
 	2. However, it's not a purely JSON object. It needs to be converted to JSON, and you need to pass a string to it
 	3. Which means that while the JSON object looks like -
-		```{display: "block"}```
+		```{width: "130px"}```
 	   You will need to pass -
-	    ```{"display": "block"}```
+	    ```{"width": "130px"}```
 	4. A very good tool to convert traditional CSS to CSS-in-JS is [CSS2JS found here](https://css2js.dotenv.dev/)
 
 #### Please note that the Data Runtime Linkage properties will override the Plugin Parameters
