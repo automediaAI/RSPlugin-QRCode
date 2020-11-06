@@ -29,3 +29,5 @@ A React Studio plugin for an SVG based QR Code
 
 # Dependencies
 This plugin is based on the excellent [react-qr-svg component](https://www.npmjs.com/package/react-qr-svg)
+
+![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-QRCode/main/screenshot.png)
